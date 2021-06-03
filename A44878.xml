@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Hue and cry after the devil for stealing away mens consciences</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44878</idno><idno type="EEBO-CITATION">13506320</idno>
+  <idno type="VID">99810</idno>
+  <idno type="EEBO-PROQUEST">2240900046</idno>
+  
+            <idno type="STC">Wing H3287</idno>
+            <idno type="STC">ESTC R6756</idno>
+            <idno type="OCLC">13506320</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A44878)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99810)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 791:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Hue and cry after the devil for stealing away mens consciences</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99810:1"/>
+            <pb facs="tcp:99810:1"/>
+            <p>A HUE and CRY AFTER THE DEVIL, For stealing away Mens Consciences.</p>
+            <q>
+               <l>The Devil plays the Thief, from man he steals</l>
+               <l>Conscience away; a friend the same reveals</l>
+               <l>Ʋnto the Author, who doth go about</l>
+               <l>To several Trades to finde the Fellon out;</l>
+               <l>But when that he him no where can espy</l>
+               <l>At last he after him sends a <hi>Hue and Cry.</hi>
+               </l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1668.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:99810:2"/>
+            <pb n="3" facs="tcp:99810:2"/>
+            <head>A HUE and CRY AFTER THE DEVIL.</head>
+            <p>PAssing along the streets the other day to satisfie my eye with beholding the forwardness and gallantry of the Citizens, in the erection of so many lofty structures al<g ref="char:EOLhyphen"/>ready, where the fire had made such devastations in our Metropolitan City of <hi>London;</hi> it gave me marvellous content to see (so Phoenix like) new streets to rise out of the ashes of the other; the houses so uniform and richly deckt, as made the very ruines to appear amiable. Being glad to see the City in such a happy forwardnes of building, that it began to look already with a beautyful face, having satisfied my curio<g ref="char:EOLhyphen"/>sity therein, I betook my self to that part thereof which that merciless Element of Fire had spared. As I passed along I met with an old aquaintance of mine, one who was a great obser<g ref="char:EOLhyphen"/>ver of the times, and ingrosser of that commodity which we call News; it was now near a month since we had seen each other, and I being desirous to heare of him how affaires went in the world, and to renew old acquaintance, invited him to the drinking of a glass of Canary, which being kindly ac<g ref="char:EOLhyphen"/>cepted, into the Tavern we went, where being attended with what we came for, after some little pause, I desired of him what news was abroad, and how he had fared since I last saw him.</p>
+            <p>Truely said he (fetching a deep sigh) as bad news most
+<pb n="4" facs="tcp:99810:3"/> commonly exceeds good at all times, so I thinke no age what<g ref="char:EOLhyphen"/>soever can produce such bad news as is now on foot; for being at the <hi>Exchange</hi> the other day I heard of the most sad<g ref="char:EOLhyphen"/>dest Robbery that ever was committed on the face of Dame <hi>Tellus,</hi> wherein such an infinite many of thousands are con<g ref="char:EOLhyphen"/>cerned, such a multitude of people undone, such a number of persons ruined, and all by one strong deceitful Thief, as makes the present age to wonder, and strike the future with admiration.</p>
+            <p>These words of his struck me into a great amazement, what kinde of robbery this should be, wherein the ods was so great that one should be so much too hard for thousands, till at last he resolved me, it was <hi>the Devil which had stoln away Mens Consciences;</hi> For do not you see (said he) that most sort of Men have lost their Consciences? If Conscience were, would the Tradesman so lie and swear in selling his Wares, using false Weights and Measures to encrease his pelf? If Conscience were not lost, would Taylors steal, Lawyers take double Fees, Landlords rack their Tennants, Tapsters nick and froth their Jugs and Canns, Vintners mix their Wines, and Cooks to sel meat double roasted at dear rates? Were not Conscience lost, would the Astrologers make the Stars to tell lies for get<g ref="char:EOLhyphen"/>ting them Money, and by a few Triangles and Quadrangles cheat a simple Questionest out of his shilling or half Crown? Had not Conscience been lost, we should not have so many Knights of the Poast attendant on Courts of Law, the Prisons would not be so full of Pick-pockets, Padders, Murderers, and Villains; So many Whores would not stand at their doors with painted brazen faces to intice young Cullies to their incestuous embracements: And from whence does all this mischief and disorder spring but from the Devil, who hath stoln Mens Consciences away?</p>
+            <p>These words of his so deeply incensed me against the De<g ref="char:EOLhyphen"/>vil for this horrible theft, that I resolved to rest neither day nor night till I had found out this foul Fiend, and either by fair means or foul make him to restore Mens Consciences again. And imparting my resolution to my friend he very much applauded my design, wishing me fortunate success in my undertakings, which if I could accomplish (as he said) it
+<pb n="5" facs="tcp:99810:3"/> would very much conduce to a general good.</p>
+            <p>Having parted from him, I was fully bent upon my per<g ref="char:EOLhyphen"/>suit of the Devil, but whether to go to finde him I knew not, at last I bethought my self that where should I finde the Devil but in Hell? and that Hell might be found under every Tay<g ref="char:EOLhyphen"/>lors Shop-board; so going up the <hi>Strand,</hi> I enquired for his Devilship at one of the houses of that Cross-legd Frater<g ref="char:EOLhyphen"/>nity; the Master of the house (who seemed a Gentleman by his outward garb) told me very seriously he was not there, for he had lately taken a surfeit amongst them by eating too much Cabbidge, and was gone to fetch a walk as for as <hi>West<g ref="char:EOLhyphen"/>minster;</hi> thither I hyed as fast as I could, and went to the place there called <hi>Hell,</hi> thinking if I could not finde him in one Hell, I might in another, but they denyed him to be there then, telling me it was most probable he might be found in <hi>Westminster-Hall</hi> amongst the Lawyers, whereupon I went thither, and pryed narrowly up and down, but could not finde him, unless any of the Lawyers had hid him under their long Gowns; wherefore being disappointed of my purpose, I enquired of a Solliciter (who was very busie in setting peo<g ref="char:EOLhyphen"/>ple together by the eares) if he could tell me any tidings of <hi>Pluto?</hi> he told me he was newly gone from thence amongst the Brokers at <hi>London</hi> to buy him a Cast-suit (for his old one was quite worn out) and that if I made haste I should not fail to finde him there; Being very well satisfied with this answer, I returned with speed into <hi>London,</hi> searched for him in <hi>Long-lane, Barbican, Charterhouse-lane,</hi> and <hi>Houndsditch;</hi> he was very well known amongst them, so that I should not need to describe what manner of person he was: But they said they could not trust him upon any conditions, wherefore they imagined he was gone to a Userers to borrow mony; upon those words away went I to a Userer, in hopes to finde him there, and indeed I did imagine had found him whom I look't for, the Userer look't so like a Devil, that a man might have been mistaken though he had had a payer of spe<g ref="char:EOLhyphen"/>ctacles on his nose, and a candle and lanthorn in his hand: this made me to ask him seriously if his sirname were not <hi>Belzebub,</hi> for Christian name I thought he had none; the Userer told me that I was mistaken in him, but that the Devil
+<pb n="6" facs="tcp:99810:4"/> and he were old acquaintance, and even now (said he) he was here to borrow money, but I am resolved to have suffi<g ref="char:EOLhyphen"/>cient bond for it, and therefore sent him to my Scriveners, where there is no question but you may finde him.</p>
+            <p>I asked him where his Scrivener lived? he told me I could hardly go amiss; so I went to one, and found he had been there; but the Scrivener belike had refused to take his single bond, and that therefore he was gone forth amongst some Tradesmen to get him security.</p>
+            <p>Security (thought I) why who is so mad to be security for the Devil? then I began to study what Tradesmen were most like to do it, certainly though I, Mercers nor Drapers can<g ref="char:EOLhyphen"/>not be any ways allyed to him, or shew him so much friend<g ref="char:EOLhyphen"/>ship as to do him such a courtesy; yet at last I considered with my self, that there was something in false lights and short measures, for the permission whereof they might do much; but having searched amongst them for this lost Goat, they either would not, or could not give me any information of him.</p>
+            <p>Marry thought I, what shall I do now? shall I go seek him amongst the Grocers? certainly my labour will be in vain, he cannot be acquainted with such wealthly persons: but yet I could not tell what to think when I bethought me of false weights, rouncing of rotten fruit, selling of <hi>Cassia, Sinamon,</hi> for right, mixing flour with Suger to make it look white, selling of Cloves which before had the spirits taken out of them at the Distillers, and such like matters, but when I went to aske for him, they stiffely denyed him, and affirmed to me that he was not free of their Company.</p>
+            <p>I was much discontented to loose all this labour for nothing, so that to drive away melancholly I went into an Alehouse hard by the Rounds in <hi>Smithfield,</hi> where was a company of Horse-coursers a drinking, I understanding their calling, thought there was no men so fit to enquire after the Devil as they; and therefore desired them if they knew where he was that they would give me information thereof; but before they would give me any answer to my question, they would know of me what business I had with him? I told them con<g ref="char:EOLhyphen"/>cerning the theft he had done in stealing away Mens Con<g ref="char:EOLhyphen"/>sciences.
+<pb n="7" facs="tcp:99810:4"/> Conscience (said they) what thing is that? we never heard of that name before; is there such a thing say you as Conscience? alas we know not what belongs to it, besides we love the Devil better than so, than that for Conscience we would go to betray him.</p>
+            <p>Finding them such faithful friends to the Devil, I despaired of any help from them; then began I to consider whether I should go next, I thought it was in vain to go amongst the Booksellers to seek him, for what should the Devil do with learning? Then I imagined he might be at some Tavern a drinking, and yet thought I, they have gotten such a trick of late of mixing and sophisticating their Wines, that the Devil will hardly be so cheated. I could not imagine him to be in the Company of any Poets, for if he went abroad to look for security, it was in vain for him to go to them, who are for the most part of them turned Philosophers, carry all their wealth on their back, so that you might as good per<g ref="char:EOLhyphen"/>swade a hungry man from victuals, as to perswade a Userer to take their words: At last I considered with my self that the Devil was a Wencher, and therefore it was ten to one but I should finde him in some of the Bawdy-houses a trading with a <hi>Mob,</hi> whereupon I took my perambulation to <hi>Ratclif-High-way, Well-close, Nightengale-lane, Whetstones Park, Luteners-lane, Dog and Bitch Yard, Saffron-hill,</hi> and several other places, where I did immagine he might be heard of; no sooner came I amongst them, but I found the Devil in their mouths, as common as their bodies were to all commers, they were as well acquainted with him as if he were one or their own houshould, and indeed a man might judge he was, for who can take a Bawdy-house to be any thing else than Hell, where the Devil is Master of the House, and the old Bawd his assistant? I asked amongst them very earnestly for this their old associate, but they said he was ore-wearied with them, and truely they thought he had gotten amongst the rude Rout of Easter-holy-days, but what was become of him since they could not tell.</p>
+            <p>I seeing all my pains and travel thus <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>me to nothing, but that every one denyed him (although I shrewdly suspected
+<pb n="8" facs="tcp:99810:5"/> that some of them lyed,) I resolved to travel no further after him, and therefore now I have published a <hi>Hue and Cry,</hi> desiring all people to make dilligent search about them, that if it be possible he may be taken and brought to condign pu<g ref="char:EOLhyphen"/>nishment.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="proclamation">
+                        <head>The Hue and Cry.</head>
+                        <p>WHereas <hi>Lucifer,</hi> alias <hi>Pluto,</hi> alias <hi>Belze<g ref="char:EOLhyphen"/>bub,</hi> alias <hi>Mephostopholis,</hi> alias <hi>Satan,</hi> Prince of <hi>Cocytus, Styx, Phlegeton,</hi> and <hi>Acheron,</hi> hath felloniously stoln away the Consciences of many thousands of people, who are thereby deprived of all good; These are to desire you to Apprehend the said <hi>Lucifer,</hi> alias <hi>Pluto,</hi> alias <hi>Belzebub,</hi> alias <hi>Me<g ref="char:EOLhyphen"/>phostopholis,</hi> alias <hi>Satan;</hi> he goes in several shapes, and sometimes like a tall black man, with cloven feet and a sting in his tayle; his chief companions are Whores, Bawds, Thieves, and Witches, he walks for the most part in the night, for he hates the light; whosoever shall apprehend him, let him be sure to chaine him fast for doing further mischief, and if he resist, kill and destroy him.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:99810:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
